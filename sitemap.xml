@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.sirnelsoncollege.academy/</loc></url>
-  <url><loc>https://www.sirnelsoncollege.academy/ielts.html</loc></url>
-  <url><loc>https://www.sirnelsoncollege.academy/general-english.html</loc></url>
-  <url><loc>https://www.sirnelsoncollege.academy/book-club.html</loc></url>
-  <url><loc>https://www.sirnelsoncollege.academy/videos.html</loc></url>
-  <url><loc>https://www.sirnelsoncollege.academy/testimonials.html</loc></url>
-  <url><loc>https://www.sirnelsoncollege.academy/contact.html</loc></url>
-  <url><loc>https://www.sirnelsoncollege.academy/registration.html</loc></url>
+
+  <url>
+    <loc>https://sirnelsonenglish.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://sirnelsonenglish.com/ielts.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sirnelsonenglish.com/general-english.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sirnelsonenglish.com/book-club.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sirnelsonenglish.com/videos.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sirnelsonenglish.com/testimonials.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sirnelsonenglish.com/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://sirnelsonenglish.com/registration.html</loc>
+  </url>
+
 </urlset>
