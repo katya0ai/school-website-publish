@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.sirnelsoncollege.academy/sitemap.xml
+Sitemap: https://sirnelsonenglish.com/sitemap.xml
